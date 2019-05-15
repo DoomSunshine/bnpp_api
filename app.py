@@ -1,4 +1,4 @@
 import sys
-version = '1.0'
+version = '1.1'
 
-print(sys.version)
+print(sys.version_info)
